@@ -1,0 +1,12 @@
+{
+  "author": [ "GubbyDuo" ],
+  "description": "A Cog I made for an interview",
+  "install_msg":  "Red cog has been installed!",
+  "short":  "GubbyDuo's bot",
+  "end_user_data_statement": "This bot stores one JSON file which lists the id of all blacklisted users",
+  "min_bot_version": "3.4.5",
+  "max_bot_version": "3.4.5",
+  "min_python_version": "2.8.7",
+  "hidden": true,
+  "disabled": false
+}
